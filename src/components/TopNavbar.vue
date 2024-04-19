@@ -9,7 +9,7 @@ const cart = useCart()
         <li class="nav-item"><router-link to="/" class="nav-link px-2 active" aria-current="page">Главная страница</router-link></li>
         <li class="nav-item"><a href="#" class="nav-link px-2">Особенности</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2">Стоимость</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2">ЧЗВ</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2">Вопросы и ответы</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2">О сайте</a></li>
       </ul>
       <div class="flex-shrink-0 dropdown">
@@ -19,7 +19,7 @@ const cart = useCart()
         <ul class="dropdown-menu text-small shadow" aria-labelledby="dropdownUser2" style="">
           <li><router-link class="dropdown-item" to="/sign-in/">Войти</router-link></li>
           <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="/register/">Зарегистрироваться</a></li>
+          <li><a class="dropdown-item">Зарегистрироваться</a></li>
         </ul>
       </div>
       <div class="shopping-cart">

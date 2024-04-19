@@ -5,7 +5,7 @@
         <div class="footer-content">
           <div class="logo-home"></div>
           <div class="footer-text">
-            <p>© 2022 Middlemarch. All Right Reserved | Переделали Ануфриев Игорь и Гребенкин Алексей</p>
+            <p>© 2024 Middlemarch. Все права защищены  | Переделали Толмачев В.Е. и Чумадевский Н.П.</p>
           </div>
         </div>
       </div>

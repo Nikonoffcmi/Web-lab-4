@@ -1,19 +1,19 @@
 {
   "books": [
     {
-      "title": "The Memory Police",
-      "author": "Йоко Огава",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
-      "price": 859,
-      "currency": "₽",
-      "category": "Современная проза",
-      "isbn13": 9781101911815,
+        "title": "Полиция памяти",
+        "author": "Йоко Огава",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
+        "price": 859,
+        "currency": "₽",
+        "category": "Научная фантастика, антиутопия",
+        "isbn13": 9781101911815,
         "description": "На безымянном острове исчезают предметы: сначала шляпы, затем ленты, птицы, розы..."
     },
 
     {
-      "title": "Rhinoceros and Other Plays",
-      "author": "Eugène Ionesco",
+      "title": "Носорог",
+      "author": "Эжен Ионеско",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
       "price": 599,
       "currency": "₽",
@@ -24,7 +24,7 @@
     },
 
     {
-      "title": "Баллада о предместье. Memento Mori",
+      "title": "Помни о смерти",
       "author": "Мюриэл Спарк",
       "image": "https://i.ebayimg.com/images/g/yyAAAOSwm2pf~uN7/s-l400.jpg",
       "price": 899,
@@ -36,8 +36,8 @@
     },
 
     {
-      "title": "Atlas of AI",
-      "author": "Kate Crawford",
+      "title": "Атлас ИИ",
+      "author": "Кейт Кроуфорд",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
       "price": 499,
       "currency": "₽",

@@ -109,7 +109,7 @@ module.exports = {
 
       webdriver: {
         start_process: true,
-        server_path: '/home/nikonoff/dev/Web-lab4/web-lab-4/node_modules/.bin/chromedriver',
+        server_path: './node_modules/.bin/chromedriver',
         cli_args: [
           // --verbose
         ]
